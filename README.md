@@ -1,10 +1,5 @@
-
-
-````markdown
-<!-- ========================== START OF README ========================== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${YOUR_NAME};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${manasa S};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -15,13 +10,13 @@
 
 ## 🧭 About Me
 
-```python
+
 class Developer:
     def __init__(self):
-        http://self.name = "${YOUR_NAME}"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["English", "Hindi"]
-        self.location = "${YOUR_LOCATION}"
+        http://self.name = "${Manasa}"
+        self.role = "Data Analyst"
+        self.language_spoken = ["English", "kannada"]
+        self.location = "${Mysuru}"
         self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
         self.interests = ["Web Dev", "Open Source", "Automation"]
 
