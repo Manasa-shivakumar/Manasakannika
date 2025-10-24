@@ -1,138 +1,175 @@
-<!-- 🚀 FUTURISTIC GITHUB PROFILE README (v2.0) FOR ARJUN KUMAR -->
-<!-- Paste this directly in your http://README.md -->
-
-<div align="center">
-
-<!-- 🌈 Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=👨‍💻+Arjun+Kumar;Full+Stack+Developer+%7C+Django+%7C+React+%7C+FastAPI;Passionate+About+AI,+Cloud,+and+Open+Source" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Manasa+S;💻+Computer+Science+Engineer;🐍+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
 </h1>
 
-<!-- 🌀 Animated Gradient Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=header&text=Welcome+To+My+Code+Universe!&fontAlign=50&fontAlignY=40&fontSize=22&fontColor=1B1F23" width="100%"/>
-
-<!-- 🌐 Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/arjun-kumar-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/arjun-dev-27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a mailto:href="mailto:arjun.kumar.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://arjun-dev-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🧭 About Me
+
+python
+class Developer:
+    def _init_(self):
+        self.name = "Manasa S"
+        self.role = "Computer Science Engineer"
+        self.language_spoken = ["English", "Kannada"]
+        self.location = "Mysore, India"
+        self.learning = ["Data Structures", "Web Development", "Problem Solving"]
+        self.interests = ["Python Development", "Machine Learning", "Automation"]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 😊")
+`
+
+---
+
+## 💡 Currently Learning & 2025 Goals
+
+🎯 Master advanced Python libraries like NumPy & Pandas
+🎯 Build real-time web apps using Flask and SQL
+🎯 Learn data visualization and ML basics
+🎯 Contribute to open-source projects
+🎯 Keep improving problem-solving and coding speed
+
+---
+
+## 🧠 Skills Dashboard
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjun-dev-27&theme=matrix&no-frame=true&margin-w=12&margin-h=12&column=6&title=Commit,Repositories,Stars,PullRequest,Followers,Issues" width="100%"/>
+
+|  **Languages**  | **Libraries & Frameworks** |           **Databases**           |   **Tools / IDEs**  |
+| :-------------: | :------------------------: | :-------------------------------: | :-----------------: |
+|    🐍 Python    |      📊 NumPy, Pandas      |           💾 SQL / MySQL          |      ⚙ VS Code     |
+| ☕ Java (Basics) |      🧠 OOPs Concepts      |             🗄 SQLite            |    🧭 Git, GitHub   |
+|   🌐 HTML, CSS  |      🔍 Flask (Basic)      | 🔢 Queries (SELECT, INSERT, etc.) | 🧩 Jupyter Notebook |
+
 </div>
 
 ---
 
-## ⚙️ Tech Stack Universe
+## ⚙ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,django,fastapi,tailwind,git,github,docker,linux,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,sqlite,git,github,vscode,linux&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Performance Dashboard
+## 🎨 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-dev-27&show_icons=true&theme=radical&hide_border=true&custom_title=🚀+Arjun's+GitHub+Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun-dev-27&theme=radical&hide_border=true&fire=00F5FF&ring=00F5FF" width="48%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-dev-27&layout=compact&theme=radical&hide_border=true" width="55%"/>
-</div>
+### 🧠 Cyberbullying Detection (ML + Flask)
 
----
+> Developed a machine learning model to classify text as *bullying* or *non-bullying* using labeled datasets.
+> Used Python, Pandas, and NumPy for preprocessing and Flask for real-time prediction.
 
-## 🌌 Contribution Nebula
+**Tech Stack:**
+`Python` • `Pandas` • `NumPy` • `Flask` • `Machine Learning`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-dev-27&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=✨+Contribution+Galaxy" width="95%"/>
-</div>
-
----
-
-## 🚀 Featured Project Showcases
-
-<details>
-  <summary><b>💼 SkillSprint – Learning Platform</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="450" style="border-radius:12px; box-shadow:0 0 20px #00F5FF;">
-  </p>
-  <ul>
-    <li>Full-stack platform built with Django REST & Tailwind.</li>
-    <li>Student and instructor dashboards with analytics.</li>
-    <li>Custom certificate generation and course tracking.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🏡 3D House Visualizer – OpenCV Project</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450" style="border-radius:12px; box-shadow:0 0 20px #00F5FF;">
-  </p>
-  <ul>
-    <li>Interactive 3D house visualization using OpenCV and NumPy.</li>
-    <li>Implemented rotation, scaling, and realistic depth effects.</li>
-  </ul>
-</details>
-
----
-
-## 🧠 Quick Facts About Me
-
-🎯 Love solving problems through **code, logic, and design**.  
-💬 Ask me about **Django REST, FastAPI, and full-stack architecture**.  
-🌱 Exploring **AI + Cloud integration in modern web apps**.  
-⚡ “Code is like art — every line tells a story.”  
-
----
-
-## 🔥 Recent Developer Activity
-
-<!--START_SECTION:activity-->
-1. 🧠 Contributed to [arjun-dev-27/FastAPI-Advanced-CRUD]  
-2. 🧩 Opened issue [#12] in [arjun-dev-27/SkillSprint]  
-3. 🚀 Pushed updates to [Portfolio-Website]  
-4. 🎉 Merged PR [#9] in [arjun-dev-27/Django-Starter-Template]  
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Coding Breakdown
-
-```text
-Python       ████████████████████░░░░   82% 
-JavaScript   ███████████░░░░░░░░░░░░░   60%
-HTML/CSS     ████████████░░░░░░░░░░░   67%
-SQL          ████████░░░░░░░░░░░░░░░   42%
-```
-
----
-
-## 💫 Futuristic Particle Background
-
-<!-- Animated Particle SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasas&repo=cyberbullying-detection&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<!-- 🌊 Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer" width="100%"/>
+### 🌾 Farm Management System
+
+> A Python-based system to efficiently manage resources, crops, and livestock.
+> Features include inventory management, financial analysis, and productivity reports.
+
+**Tech Stack:**
+`Python` • `SQLite` • `Tkinter` • `File Handling`
+
+---
+
+## 🧾 Certificates
+
+🎓 **Certified Full Stack Python Training** — Skill Bout (2025)
+🎓 **Java Workshop** — Qspiders (2024)
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Engineering (Computer Science)**
+*Mysuru Royal Institute of Technology* — (2021–2025) | **CGPA: 8.5**
+
+🎓 **Higher Secondary Certificate (PCMB)**
+*Marimallappa PU College* — (2019–2021) | **80%**
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manasas&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manasas&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasas&theme=radical&hide_border=true" height="160" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasas&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasas&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
+
+</div>
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ManasaShivakumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:slmanasagowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/manasas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🎯 Fun Dashboard (Animated)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+---
+
+## 🌈 Visitor Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manasas&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile — Keep Learning, Keep Growing!</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
+</p>
+
+
+---
+
+
+
+Would you like me to make a version that has *animated tech icons* or a *dark gradient banner* next?
