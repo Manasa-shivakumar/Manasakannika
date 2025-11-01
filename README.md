@@ -1,175 +1,107 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Manasa+S;💻+Computer+Science+Engineer;🐍+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kannika+M+Gowda;📊+Aspiring+Data+Analyst;💻+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=120&section=header&text=Welcome%20to%20my%20GitHub!%20🌿&fontSize=30&fontColor=0d1117" />
 </p>
 
----
+## 🌿 About Me
 
-## 🧭 About Me
+*👋 Hello! I'm Manasa S*
 
-python
-class Developer:
-    def _init_(self):
-        self.name = "Manasa S"
-        self.role = "Computer Science Engineer"
-        self.language_spoken = ["English", "Kannada"]
-        self.location = "Mysore, India"
-        self.learning = ["Data Structures", "Web Development", "Problem Solving"]
-        self.interests = ["Python Development", "Machine Learning", "Automation"]
+- *📍 Location*: Mysore, India
+- *🎯 Role*: Aspiring Data Analyst  
+- *📊 Current Focus*: Power BI & Data Visualization
+- *✨ Passion*: Transforming raw data into actionable insights
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! 😊")
-`
+*🛠 Technical Skills*: Python, Pandas, NumPy, Power BI, Excel, SQL, Data Visualization  
+*🎯 Interests*: Data Storytelling, Business Intelligence, Dashboard Design, ML Applications
 
 ---
 
-## 💡 Currently Learning & 2025 Goals
+## 🛠 Tech Stack & Tools
 
-🎯 Master advanced Python libraries like NumPy & Pandas
-🎯 Build real-time web apps using Flask and SQL
-🎯 Learn data visualization and ML basics
-🎯 Contribute to open-source projects
-🎯 Keep improving problem-solving and coding speed
+### 📊 *Data Analysis & Visualization*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 💾 *Databases & Tools*
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧠 Skills Dashboard
+## 🚀 Featured Projects
+
+### 🔍 Cyberbullying Detection System
+A machine learning web application to detect bullying content in tweets
+
+- *Tech Stack*: Python • Flask • Pandas • Scikit-learn • NLTK
+- *Features*: Real-time classification, Web interface, Text preprocessing
+- *Impact*: Demonstrates practical application of ML for social good
+
+### 🌾 Farm Management System  
+A desktop application for efficient farm and crop data management
+
+- *Tech Stack*: Python • Tkinter • SQLite • File Handling
+- *Features*: Data entry forms, Crop tracking, Inventory management
+- *Learning*: Database design, GUI development, CRUD operations
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-
-|  **Languages**  | **Libraries & Frameworks** |           **Databases**           |   **Tools / IDEs**  |
-| :-------------: | :------------------------: | :-------------------------------: | :-----------------: |
-|    🐍 Python    |      📊 NumPy, Pandas      |           💾 SQL / MySQL          |      ⚙ VS Code     |
-| ☕ Java (Basics) |      🧠 OOPs Concepts      |             🗄 SQLite            |    🧭 Git, GitHub   |
-|   🌐 HTML, CSS  |      🔍 Flask (Basic)      | 🔢 Queries (SELECT, INSERT, etc.) | 🧩 Jupyter Notebook |
+  
+![Manasa S GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## ⚙ Tools & Technologies
+## 🎓 Education & Certifications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,sqlite,git,github,vscode,linux&perline=8" />
-</p>
+### 📚 Education
+- *Bachelor of Engineering in Computer Science*  
+  Mysuru Royal Institute of Technology | 2021–2025
 
----
+- *Pre-University Course (PCMB)*  
+  MMPUC | 2019–2021
 
-## 🎨 Featured Projects
-
-### 🧠 Cyberbullying Detection (ML + Flask)
-
-> Developed a machine learning model to classify text as *bullying* or *non-bullying* using labeled datasets.
-> Used Python, Pandas, and NumPy for preprocessing and Flask for real-time prediction.
-
-**Tech Stack:**
-`Python` • `Pandas` • `NumPy` • `Flask` • `Machine Learning`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasas&repo=cyberbullying-detection&theme=radical&hide_border=true" />
-</p>
+### 🏆 Certifications
+| Certificate | Issuing Organization | Year |
+|-------------|---------------------|------|
+| Full Stack Python Training | Skill Bout | 2025 |
+| Java Workshop | Qspiders | 2024 |
 
 ---
 
-### 🌾 Farm Management System
-
-> A Python-based system to efficiently manage resources, crops, and livestock.
-> Features include inventory management, financial analysis, and productivity reports.
-
-**Tech Stack:**
-`Python` • `SQLite` • `Tkinter` • `File Handling`
-
----
-
-## 🧾 Certificates
-
-🎓 **Certified Full Stack Python Training** — Skill Bout (2025)
-🎓 **Java Workshop** — Qspiders (2024)
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Engineering (Computer Science)**
-*Mysuru Royal Institute of Technology* — (2021–2025) | **CGPA: 8.5**
-
-🎓 **Higher Secondary Certificate (PCMB)**
-*Marimallappa PU College* — (2019–2021) | **80%**
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manasas&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats Dashboard
+## 📫 Let's Connect!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manasas&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasas&theme=radical&hide_border=true" height="160" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manasa_Shivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManasaShivakumar)
+[![Gmail](https://img.shields.io/badge/Gmail-slmanasagowda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slmanasagowda@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Manasa--shivakumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasa-shivakumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasas&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasas&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
-
-</div>
 
 ---
 
-## 💬 Connect With Me
+## 🌟 Visitor Counter
 
 <p align="center">
-  <a href="https://linkedin.com/in/ManasaShivakumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:slmanasagowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/manasas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=kannikagowda&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 ---
-
-## 🎯 Fun Dashboard (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
----
-
-## 🌈 Visitor Dashboard
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manasas&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile — Keep Learning, Keep Growing!</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
-</p>
-
-
----
-
-
-
-Would you like me to make a version that has *animated tech icons* or a *dark gradient banner* next?
