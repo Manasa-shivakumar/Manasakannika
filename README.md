@@ -59,11 +59,12 @@ A desktop application for efficient farm and crop data management
 
 <div align="center">
   
-![Manasa S GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Manasa S GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manasa-shivakumar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak – Manasa S](https://github-readme-streak-stats.herokuapp.com/?user=Manasa-shivakumar&theme=radical&hide_border=true)
+![Top Languages – Manasa S](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa-shivakumar&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
+
 
 ---
 
